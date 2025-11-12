@@ -51,6 +51,7 @@
   <header>
     <div class="wrap nav" role="navigation" aria-label="Main">
       <div class="brand" aria-label="Organisation name">PRN Gippsland</div>
+<img src="logo.png" alt="PRN Gippsland logo" style="height:48px;border-radius:8px;margin-left:10px;">
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
