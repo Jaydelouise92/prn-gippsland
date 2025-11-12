@@ -1,0 +1,170 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pathways to Reunification Network (PRN) – Gippsland</title>
+  <meta name="description" content="Parent‑led advocacy and support in Gippsland. Trauma‑informed tools, peer connection, and practical guidance for reunification." />
+  <meta name="robots" content="index,follow" />
+  <link rel="icon" href="data:," />
+  <style>
+    :root{
+      --bg:#ffffff; --ink:#111827; --muted:#6b7280; --accent:#0f766e; --accent2:#134e4a; --surface:#f8fafc; --ring:#a7f3d0;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial; color:var(--ink); background:var(--bg);}
+    a{color:var(--accent); text-decoration:none}
+    a:focus,button:focus,input:focus,textarea:focus{outline:3px solid var(--ring); outline-offset:2px}
+    header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e5e7eb;z-index:50}
+    .wrap{max-width:1000px;margin:0 auto;padding:0 16px}
+    .nav{display:flex;align-items:center;justify-content:space-between;height:64px}
+    .brand{font-weight:700;letter-spacing:.2px}
+    nav ul{display:flex;gap:16px;list-style:none;margin:0;padding:0}
+    nav a{padding:10px 12px;border-radius:8px}
+    nav a:hover{background:#f1f5f9}
+    .hero{display:grid;grid-template-columns:1.1fr .9fr;gap:24px;align-items:center;padding:48px 0}
+    .badge{display:inline-block;background:#ecfeff;color:#0e7490;border:1px solid #a5f3fc;padding:4px 10px;border-radius:999px;font-size:12px}
+    h1{font-size:clamp(28px,4vw,44px);line-height:1.1;margin:12px 0 8px}
+    .lead{color:var(--muted);font-size:clamp(14px,2vw,18px)}
+    .cta{display:flex;gap:12px;margin-top:18px}
+    .btn{display:inline-block;padding:12px 16px;border-radius:10px;border:1px solid transparent;font-weight:600}
+    .btn.primary{background:var(--accent);color:#fff}
+    .btn.primary:hover{background:var(--accent2)}
+    .btn.ghost{border-color:#e5e7eb}
+    section{padding:48px 0;border-top:1px solid #f1f5f9}
+    h2{font-size:clamp(22px,3vw,32px);margin:0 0 12px}
+    p{line-height:1.6}
+    .grid{display:grid;gap:16px}
+    .cards{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+    .card{background:var(--surface);border:1px solid #e5e7eb;border-radius:14px;padding:16px}
+    .small{color:var(--muted);font-size:14px}
+    .list{padding-left:18px}
+    .kicker{font-weight:700;font-size:12px;color:#0e7490;text-transform:uppercase;letter-spacing:.08em}
+    .notice{background:#fff7ed;border:1px solid #fed7aa;color:#7c2d12;padding:12px;border-radius:10px}
+    footer{background:#0f172a;color:#e5e7eb;padding:40px 0;margin-top:24px}
+    footer a{color:#a5f3fc}
+    @media (max-width:860px){.hero{grid-template-columns:1fr}}
+  </style>provides gippsland
+</head>
+<body>
+  <header>
+    <div class="wrap nav" role="navigation" aria-label="Main">
+      <div class="brand" aria-label="Organisation name">PRN Gippsland</div>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#support">Get Help</a></li>
+          <li><a href="#resources">Resources</a></li>
+          <li><a href="#join">Join</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>  <main>
+    <div class="wrap hero">
+      <div>
+        <span class="badge" aria-label="Region">Churchill • Warragul to Sale</span>
+        <h1>Pathways to Reunification Network (PRN)</h1>
+        <p class="lead">Parent‑led advocacy and support in Gippsland. Trauma‑informed tools, peer connection, and practical guidance for reunification.</p>
+        <div class="cta">
+          <a class="btn primary" href="#support">Get help</a>
+          <a class="btn ghost" href="#join">Join the network</a>
+        </div>
+      </div>
+      <div>
+        <div class="card" role="note" aria-label="Acknowledgment of Country">
+          <p><strong>Acknowledgment of Country</strong></p>
+          <p class="small">PRN respectfully acknowledges the Gunaikurnai people, Traditional Custodians of Gippsland. We pay our respects to Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples.</p>
+        </div>
+        <div class="notice" style="margin-top:12px" role="note" aria-label="Crisis note">
+          <strong>If you are in immediate danger call 000.</strong> For support contact Parentline VIC 13 22 89, 1800RESPECT 1800 737 732, or Lifeline 13 11 14.
+        </div>
+      </div>
+    </div><section id="about">
+  <div class="wrap">
+    <h2>About PRN</h2>
+    <p>PRN is a parent‑led network based in Churchill that supports families across Gippsland. We help parents impacted by child‑protection involvement with practical tools, rights‑based information, and trauma‑informed peer connection.</p>
+    <div class="grid cards">
+      <article class="card"><p class="kicker">What we do</p><p>Peer support circles. Meeting preparation. Letters and complaints guidance. Warm referrals to legal and counselling services. Constructive engagement with local agencies.</p></article>
+      <article class="card"><p class="kicker">Who we support</p><p>Parents and kin with current or recent involvement who are working toward reunification or safer contact arrangements.</p></article>
+      <article class="card"><p class="kicker">How we work</p><p>Confidential, respectful, and local. We centre lived experience and collaborate with existing services. We do not replace legal advice or provide case management.</p></article>
+    </div>
+  </div>
+</section>
+
+<section id="support">
+  <div class="wrap">
+    <h2>Get Help</h2>
+    <div class="grid cards">
+      <div class="card">
+        <p class="kicker">Meeting prep</p>
+        <ul class="list">
+          <li>Clarify goals and questions.</li>
+          <li>Bring documents and a support person.</li>
+          <li>Keep a written record afterwards.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <p class="kicker">Rights snapshot (Victoria)</p>
+        <ul class="list">
+          <li>Request support or an advocate in meetings.</li>
+          <li>Ask for decisions and reasons in writing.</li>
+          <li>Use complaints and review pathways respectfully.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <p class="kicker">Warm referrals</p>
+        <p class="small">We connect you to legal aid, counselling, and local services. Email us for a current list.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="resources">
+  <div class="wrap">
+    <h2>Resources</h2>
+    <div class="grid cards">
+      <div class="card"><p class="kicker">Toolkit</p><p>Download checklists, letter templates, and logs. Coming soon.</p></div>
+      <div class="card"><p class="kicker">Events</p><p>Parent coffee mornings and info sessions in Churchill and Morwell.</p></div>
+      <div class="card"><p class="kicker">Newsletter</p><p>Quarterly updates on programs, partnerships, and training.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="join">
+  <div class="wrap">
+    <h2>Join the Network</h2>
+    <p>We welcome lived‑experience parents and supportive allies. Start as a subscriber, then join a peer circle when you are ready.</p>
+    <div class="card">
+      <form aria-label="Join form" onsubmit="window.location='mailto:hello@example.org?subject=Join%20PRN%20Gippsland&body=Name:%20%0D%0APhone:%20%0D%0ATown:%20%0D%0ABrief%20note%20about%20support%20you%20seek:'; return false;">
+        <label for="name">Name</label><br>
+        <input id="name" name="name" required style="width:100%;padding:10px;border:1px solid #e5e7eb;border-radius:8px" /><br><br>
+        <label for="email">Email</label><br>
+        <input id="email" name="email" type="email" required style="width:100%;padding:10px;border:1px solid #e5e7eb;border-radius:8px" /><br><br>
+        <button class="btn primary" type="submit">Send join email</button>
+        <p class="small">Your details are stored only in our inbox. You can ask for deletion at any time.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="wrap">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:hello@example.org">hello@example.org</a></p>
+    <p>Location: Churchill, Victoria • Serving Warragul to Sale</p>
+    <p class="small">Privacy: We keep your messages confidential and use information only to provide support or referrals.</p>
+  </div>
+</section>
+
+  </main>  <footer role="contentinfo">
+    <div class="wrap">
+      <p><strong>PRN Gippsland</strong> — Parent‑led advocacy and support</p>
+      <p class="small">This site provides general information. It is not legal advice. For emergencies call 000.</p>
+      <p class="small">© <span id="y"></span> Pathways to Reunification Network (PRN)</p>
+    </div>
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
